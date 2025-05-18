@@ -45,7 +45,7 @@
 /* Styles for the signup form section */
 .signup-form {
     width: 250px;
-    margin: 0 auto;
+    margin: 15px auto 0;
 }
 
 /* Styles for the overall signup container */
@@ -109,12 +109,12 @@
 
 /* Styles for primary button in the signup form */
 .btn-primary {
-    background-color: #007bff; /* Set background color for primary button */
+    background-color: #3685fb; /* Set background color for primary button */
     color: #fff; /* Set text color for primary button */
 }
 
 /* Styles for danger button in the signup form */
 .btn-danger {
-    background-color: #dc3545; /* Set background color for danger button */
+    background-color: #EF4444; /* Set background color for danger button */
     color: #fff; /* Set text color for danger button */
 }
