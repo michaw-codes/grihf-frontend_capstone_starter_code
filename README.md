@@ -10,6 +10,15 @@ grihf-frontend_capstone_starter_code/
 ├── Landing_Page/
 │   ├── LandingPage.html
 │   └── LandingPage.css
+├── Login/
+│   ├── Login.html
+│   └── Login.css
+├── Navbar/
+│   ├── Navbar.html
+│   └── Navbar.css
+├── Sign_Up/
+│   ├── Sign_Up.html
+│   └── Sign_Up.css
 └── README.md
 </code>
 </pre>
